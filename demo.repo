@@ -1,0 +1,10 @@
+{
+	"name" : "Example i2b2 Plugins",
+	"plugins" : [
+		{ "manifest" : "https://raw.githubusercontent.com/nich/i2b2/master/Dem1Set/Dem1Set.manifest" },
+		{ "manifest" : "https://raw.githubusercontent.com/nich/i2b2/master/Dem2Set/Dem2Set.manifest" },
+		{ "manifest" : "https://raw.githubusercontent.com/nich/i2b2/master/ExampComm/ExampComm.manifest" },
+        { "manifest" : "https://raw.githubusercontent.com/nich/i2b2/master/ExampHello/ExampHello.manifest" },
+        { "manifest" : "https://raw.githubusercontent.com/nich/i2b2/master/ExampPDO/ExampPDO.manifest" }
+	]
+}
