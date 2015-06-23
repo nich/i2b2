@@ -1,0 +1,8 @@
+{
+        "id" : "Dem1Set",
+        "short_name" : "Demographics",
+        "name" : "Demographics (1 Patient Set) - Simple Counts",
+        "description" : "This plugin displays a demographic break-down of a Patient Set.",
+        "package" : "https://github.com/nich/i2b2/raw/master/Dem1Set/Dem1Set.zip"
+
+}

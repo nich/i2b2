@@ -1,0 +1,8 @@
+{
+        "id" : "ExampComm",
+        "short_name": "Communicator Tool",
+        "name": "Example - Communicator Tool",
+        "description": "This plugin allows you to interact directly with standard Cell Communicator objects within the web client framework.",
+        "package" : "https://github.com/nich/i2b2/raw/master/ExampComm/ExampComm.zip"
+
+}

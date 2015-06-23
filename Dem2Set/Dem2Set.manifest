@@ -1,0 +1,8 @@
+{
+        "id" : "Dem2Set",
+        "short_name": "Demographics",
+        "name": "Demographics (2 Patient Sets) - Simple Counts",
+        "description": "This plugin compares the demographic break-down of two Patient Sets.",
+        "package": "https://github.com/nich/i2b2/raw/master/Dem2Set/Dem2Set.zip"
+
+}

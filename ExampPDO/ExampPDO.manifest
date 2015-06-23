@@ -1,0 +1,8 @@
+{
+        "id" : "ExampPDO",
+        "short_name": "PDO Request",
+        "name": "Example - PDO Request",
+        "description": "This plugin demonstrates how to retrieve information using the Patient Data Object (PDO).",
+        "package" : "https://github.com/nich/i2b2/raw/master/ExampPDO/ExampPDO.zip"
+
+}

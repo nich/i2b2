@@ -1,0 +1,8 @@
+{
+        "id" : "ExampHello",
+        "short_name": "Hello World",
+        "name": "Example - Hello World",
+        "description": "This plugin demonstrates how to register a plugin within the i2b2 web client framework.",
+        "package" : "https://github.com/nich/i2b2/raw/master/ExampHello/ExampHello.zip"
+
+}
